@@ -46,7 +46,7 @@ This project focuses on analyzing coffee shop sales data using **MySQL**. The da
 
 ## How to Use
 
-1. Import the dataset into MySQL (table: `coffee_shop_sales`).  
+1. Import the dataset into MySQL (table: coffee_shop_sales).  
 2. Run the queries provided in this repository.  
 3. Explore results for different months, categories, or store locations by modifying filters.  
 
